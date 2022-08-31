@@ -12,7 +12,7 @@ tags:
 
 This example starts an [ExpressJS](https://expressjs.com/) server that connects to a Railway MongoDB database using [MongooseJS](https://mongoosejs.com/)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fexpressjs-mongoose&plugins=mongodb)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RM1WxR)
 
 ## ✨ Features
 
